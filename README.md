@@ -70,7 +70,7 @@ mydi-framework/
 │   │   │       └── ConsoleLogger.java
 │   │   └── resources/
 │   │       ├── beans.xml
-│           └── logback.xml
+│   │       └── logback.xml
 └── README.md
 ```
 
